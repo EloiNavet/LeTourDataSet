@@ -10,7 +10,7 @@ Every cyclist and stage of the Tour de France in four CSV files.
 
 <!-- coverage:start -->
 -   **Men's Tour de France**: 1903 - 2026 (all 113 editions)
--   **Women's Tour de France (Tour de France Femmes avec Zwift)**: 2022 - 2025 (all editions since the relaunch)
+-   **Women's Tour de France (Tour de France Femmes avec Zwift)**: 2022 - 2026 (all editions since the relaunch)
 <!-- coverage:end -->
 
 If you use `pandas`, just get the data via:
